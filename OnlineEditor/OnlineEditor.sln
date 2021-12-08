@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEditor", "OnlineEditor\OnlineEditor.csproj", "{8A0776E3-376E-466E-AF34-ECA28D73BD36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEditorMVC", "OnlineEditorMVC\OnlineEditorMVC.csproj", "{D24023EE-9E38-41B2-8B5D-A9A5BFA15596}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8A0776E3-376E-466E-AF34-ECA28D73BD36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8A0776E3-376E-466E-AF34-ECA28D73BD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8A0776E3-376E-466E-AF34-ECA28D73BD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8A0776E3-376E-466E-AF34-ECA28D73BD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24023EE-9E38-41B2-8B5D-A9A5BFA15596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24023EE-9E38-41B2-8B5D-A9A5BFA15596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24023EE-9E38-41B2-8B5D-A9A5BFA15596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24023EE-9E38-41B2-8B5D-A9A5BFA15596}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
